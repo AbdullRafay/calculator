@@ -1,0 +1,28 @@
+.container {
+    height: 100%;
+    width: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.form{
+    display: flex;
+}
+.output{
+    margin: 5px;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+    justify-content: end;
+
+}
+
+.calculator input{
+    border-radius: 1px;
+    height: 60px;
+    width: 60px;
+    font-size: 20px;
+    box-shadow: -8px,-8px,-15px;
+    margin: 5px;
+}
